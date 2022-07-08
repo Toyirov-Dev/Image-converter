@@ -48,7 +48,7 @@ Sarlavha.place(x=140, y=20)
 
 
 
-# by 
+# text 'by' 
 by = Label(root, text="by",
 	fg='Black',
 	font=('Times', 13, 'italic'),
