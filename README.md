@@ -1,5 +1,4 @@
 # Image-converter
-Suratlaringizni istagan farmatga convert qilishingiz mumkin!
 
-Suratlarni hatto .ico va .pdf formatlariga ham,
-convert qilishingiz mumkin.
+You can convert your photos to any format!
+It's just a for my portfolio :| 
